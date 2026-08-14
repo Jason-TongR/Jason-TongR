@@ -2,10 +2,6 @@
 
 ### A student from GTIIT
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jason-TongR&label=Profile views&color=0e75b6&style=flat" alt="Jason-TongR" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jason-TongR" alt="Jason-TongR" /></a> </p>
-
 - 🔭 I'm currently working on **MCS
 (Mathematics and Computer Science)**
 
