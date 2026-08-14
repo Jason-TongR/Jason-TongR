@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I think I don't like studying**
 
-- 📝 I have some vlog video at my BILIBILI **[https://space.bilibili.com/179503480?spm_id_from=333.1007.0.0](https://space.bilibili.com/179503480?spm_id_from=333.1007.0.0)**
+- 📝 I have some vlog video at my Bilibili **[https://space.bilibili.com/179503480?spm_id_from=333.1007.0.0](https://space.bilibili.com/179503480?spm_id_from=333.1007.0.0)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
