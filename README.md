@@ -26,9 +26,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jason-TongR&show_icons=true&locale=en&layout=compact" alt="Jason-TongR" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jason-TongR&show_icons=true&locale=en" alt="Jason-TongR" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jason-TongR&" alt="Jason-TongR" /></p>
