@@ -5,11 +5,11 @@
 - 🔭 I'm currently working on **MCS
 (Mathematics and Computer Science)**
 
-- 🌱 I'm currently learning **JAVA**
+- 🌱 I'm currently learning **Markdown**
 
 - 👯 I'm looking to collaborate on **Sleepping!!!**
 
-- 🤝 I'm looking for help with **Eating!!!**
+- 🤝 I'm looking for help with **Matlab in Linux**
 
 - 💬 Ask me about **Guitar!!!**
 
