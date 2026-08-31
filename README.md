@@ -2,22 +2,22 @@
 
 ### A student from GTIIT
 
-- 🔭 I'm currently working on **MCS
+- I'm currently working on **MCS
 (Mathematics and Computer Science)**
 
-- 🌱 I'm currently learning **Markdown**
+- I'm currently learning **Markdown**
 
-- 👯 I'm looking to collaborate on **Sleepping!!!**
+- I'm looking to collaborate on **Sleepping!!!**
 
-- 🤝 I'm looking for help with **Matlab in Linux**
+- I'm looking for help with **Matlab in Linux**
 
-- 💬 Ask me about **Guitar!!!**
+- Ask me about **Guitar!!!**
 
-- 📫 How to reach me **tang25911@gtiit.edu.cn**
+- How to reach me **tang25911@gtiit.edu.cn**
 
-- ⚡ Fun fact **I think I don't like studying**
+- Fun fact **I think I don't like studying**
 
-- 📝 I have some vlog video at my Bilibili **[https://space.bilibili.com/179503480?spm_id_from=333.1007.0.0](https://space.bilibili.com/179503480?spm_id_from=333.1007.0.0)**
+- I have some vlog video at my Bilibili **[https://space.bilibili.com/179503480?spm_id_from=333.1007.0.0](https://space.bilibili.com/179503480?spm_id_from=333.1007.0.0)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
